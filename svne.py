@@ -1,3 +1,3 @@
 # Meine Python Programm
 
-print('Hallo Welt!')
+print('Hallo Welt! 42')
